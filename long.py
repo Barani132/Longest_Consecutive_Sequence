@@ -1,5 +1,4 @@
 #Longest Consecutive Sequence
-
 arr = [100,4,200,1,3,2]
 
 nums = set(arr)
